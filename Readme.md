@@ -6,12 +6,16 @@ Python
   * Function
   * Loops
   * Class (optional)
-  * Plot and visulisation
-  * Packages for data analytics
-  * Exploratory data analysis pipeline (EDA)
-  * Python cheat sheets
+  * Juypter Markdown
+  
 ## Python Package
   * Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
   * Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
   * Matplotlib: Plotting, Subplots, Images
   * IPython: Creating notebooks, Typical workflows
+  
+
+## Plot and visulisation
+
+
+## Exploratory data analysis pipeline (EDA)
