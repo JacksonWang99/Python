@@ -11,6 +11,7 @@ Python
 ## Python Package
   * Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
   * Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
+  * Pandas
   * Matplotlib: Plotting, Subplots, Images
   * IPython: Creating notebooks, Typical workflows
   
